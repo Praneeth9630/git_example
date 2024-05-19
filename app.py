@@ -6,5 +6,5 @@ response = client.run_instances(
  InstanceType='t2.micro' ,
  KeyName='testing_KP' ,
  MaxCount=1,
- MinCount=1,
+ MinCount=D1,
 )
